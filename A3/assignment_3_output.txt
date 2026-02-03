@@ -1,0 +1,23 @@
+##### OUTPUT 1 #####
+
+Enter n value: 3
+Enter i value: 3
+Machine Result: 7625597484987
+GPT Result: 19683
+Sure, I’m terrible at math because apparently subtracting common sense takes more effort than factoring quadratic equations!
+
+##### OUTPUT 2 #####
+
+Enter n value: 3
+Enter i value: 4
+Machine Result: 443426488243037769948249630619149892803
+GPT Result: 717897987691852588770249
+Well, clearly my brain took a wrong turn somewhere — at least this time, I doesn't know how to do simple addition!
+
+##### OUTPUT3 #####
+
+Enter n value: 4
+Enter i value: 3
+Machine Result: 340282366920938463463374607431768211456
+GPT Result: 1152921504606846976
+Guess I’m better at multiplying me confusion than actually doing math! Looks like I double-checked myself into a corner—and I'm not even Turing smart enough to scroll out of here.
